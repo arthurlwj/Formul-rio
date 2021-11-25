@@ -1,0 +1,39 @@
+.teste input{
+    margin-left: 80px;
+    
+}
+
+.sobrenome input{
+    margin-left: 45px;
+}
+
+.email input {
+    margin-left: 70px;;
+}
+
+.idade input{
+    margin-left: 80px;
+    width: 6em;
+}
+
+.sexo .masc{
+    margin-left: 80px;
+}
+
+.fotos input{
+    margin-left: 75px;
+}
+
+.pais select{
+    margin-left: 80px;
+}
+
+.opcoes select{
+    margin-left: 120px;
+    margin-top: -70px;
+}
+
+.frase{
+    margin-right: 360px;
+    
+}
